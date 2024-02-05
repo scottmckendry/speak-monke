@@ -1,0 +1,18 @@
+mode: set
+speak-monke/lexer/lexer.go:14.31,18.2 3 1
+speak-monke/lexer/lexer.go:20.28,21.36 1 1
+speak-monke/lexer/lexer.go:21.36,23.3 1 1
+speak-monke/lexer/lexer.go:23.8,25.3 1 1
+speak-monke/lexer/lexer.go:26.2,27.18 2 1
+speak-monke/lexer/lexer.go:30.41,33.14 2 1
+speak-monke/lexer/lexer.go:34.11,35.37 1 1
+speak-monke/lexer/lexer.go:36.11,37.40 1 1
+speak-monke/lexer/lexer.go:38.11,39.37 1 1
+speak-monke/lexer/lexer.go:40.11,41.37 1 1
+speak-monke/lexer/lexer.go:42.11,43.36 1 1
+speak-monke/lexer/lexer.go:44.11,45.35 1 1
+speak-monke/lexer/lexer.go:46.11,47.37 1 1
+speak-monke/lexer/lexer.go:48.11,49.37 1 1
+speak-monke/lexer/lexer.go:50.9,52.23 2 1
+speak-monke/lexer/lexer.go:55.2,56.12 2 1
+speak-monke/lexer/lexer.go:59.63,61.2 1 1
